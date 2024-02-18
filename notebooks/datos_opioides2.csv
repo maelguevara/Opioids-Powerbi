@@ -1,0 +1,24 @@
+,age,gender,race/ethnicity,family__substance_abuse,personal_history_of_substance_abuse,mental_health_conditions,chronic_pain_conditions,prescribed_medications,monthly_duration_of_opioid_medication,hospitalization_due_to_opioid_use,social_support_network,employment_status,education_level,geographic_location,opioid_risk_level,dosage_opioid_medication,frequency_medication_per_day
+0,42,male,caucasian,no,no,yes,yes,oxycodone,6,no,strong support system,employed,college degree,new york city,3,['10 mg'],3.0
+1,32,female,african american,yes,no,no,no,hydrocodone,24,yes,limited support system,unemployed,high school diploma,los angeles,4,['5 mg'],2.0
+2,55,male,hispanic,no,yes,yes,yes,fentanyl,12,no,moderate support system,retired,some college,chicago,3,['25 mcg'],0.33
+3,28,female,asian,no,no,no,no,tramadol,1,no,strong support system,employed,graduate degree,san francisco,1,['50 mg'],4.0
+4,45,male,caucasian,no,no,no,yes,morphine,3,no,moderate support system,employed,some college,miami,4,['10 mg'],2.0
+5,29,male,white,yes,yes,no,no,fentanyl,12,no,moderate support system,employed,graduate degree,canada,2,['5 mg'],2.0
+6,35,female,asian,yes,no,no,no,kadian,24,no,strong support system,unemployed,high school diploma,los angeles,2,['25 mcg'],0.33
+7,43,female,asian,yes,no,no,yes,methadone,36,yes,strong support system,employed,graduate degree,connecticut,4,['5 mg'],2.0
+8,60,female,african american,no,yes,no,yes,oxycodone,6,no,strong support system,retired,graduate degree,boston,4,['10 mg'],3.0
+9,45,male,u.s nonresident,yes,no,yes,yes,hydrocodone,4,no,strong support system,unemployed,graduate degree,los angeles,1,['25 mcg'],0.33
+10,67,male,asian,no,no,yes,yes,oxycodone,2,no,moderate support system,retired,high school diploma,miami,1,['10 mg'],3.0
+11,87,female,asian,no,no,no,no,fentanyl,24,yes,limited support system,retired,some college,canada,4,['5 mg'],2.0
+12,89,male,caucasian,no,no,no,yes,opana,12,no,limited support system,unemployed,high school diploma,canada,3,['10 mg'],3.0
+13,34,female,white,yes,no,no,no,demerol ,12,yes,moderate support system,unemployed,some college,boston,3,['25 mcg'],0.33
+14,24,male,caucasian,no,no,yes,yes,codeine ,2,no,strong support system,unemployed,graduate degree,chicago,1,['25 mcg'],0.33
+15,27,male,african american,no,no,no,no,vicodin,3,no,moderate support system,employed,graduate degree,st. louis,0,['5 mg'],2.0
+16,55,female,african american,no,yes,yes,no,tramadol,4,no,limited support system,unemployed,high school diploma,kansas city,1,['10 mg'],3.0
+17,35,male,african american,no,yes,yes,no,vicodin,24,yes,moderate support system,employed,some college,dallas,4,['5 mg'],3.0
+18,29,male,white,yes,no,no,no,vicodin,36,yes,limited support system,unemployed,high school diploma,san francisco,4,['5 mg'],2.0
+19,34,male,caucasian,no,yes,yes,yes,hydrocodone,12,no,moderate support system,unemployed,some college,dallas,2,['10 mg'],3.0
+20,35,female,u.s nonresident,yes,yes,no,yes,oxycodone,4,no,moderate support system,employed,graduate degree,boston,1,['5 mg'],3.0
+21,56,female,u.s nonresident,yes,yes,no,yes,methadone,2,no,moderate support system,employed,some college,miami,0,['10 mg'],3.0
+22,45,male,hispanic,no,yes,no,yes,fentanyl,1,no,moderate support system,employed,graduate degree,jersey,0,['25 mcg'],0.33
